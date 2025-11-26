@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Rohit",
+        "company": "Delta EdTech",
+        "email": "SahilShah635@gmail.com",
+        "role": "CEO",
+        "use_case": "Customer support voice agent",
+        "team_size": null,
+        "timeline": "next week",
+        "timestamp": "2025-11-26T17:36:40.762591"
+    },
+    {
+        "name": null,
+        "company": "Delta EdTech",
+        "email": "Rohitsixthreefive@gmail.com",
+        "role": "CEO",
+        "use_case": "Customer support AI agent",
+        "team_size": "100",
+        "timeline": "next month",
+        "timestamp": "2025-11-26T17:42:11.522177"
+    },
+    {
+        "name": "Rohit",
+        "company": "Delta EdTech",
+        "email": "Rohitsixthreefive@gmail.com",
+        "role": "CEO",
+        "use_case": "Customer support AI agent",
+        "team_size": "100",
+        "timeline": "next month",
+        "timestamp": "2025-11-26T17:43:06.181302"
+    }
+]
